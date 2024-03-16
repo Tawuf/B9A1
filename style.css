@@ -1,0 +1,46 @@
+.banner{
+    background-image: url("resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 95%;
+    align-items: center;
+    margin: auto;
+}
+.wish{
+    text-align: center;
+    color: white;
+    padding-top: 10%;
+    
+}
+.Celebration{
+    margin-top: 0;
+    font-size:50px;
+}
+.offer{
+    text-align: center;
+    margin-top: 80px;
+    padding: 15px;
+}
+.percent{
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.offer img {
+    height: 400px;
+    width: 600px;
+}
+.Party{
+    background-image: url("resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 90%;
+    align-items: center;
+    margin-top: 90px !important;
+    margin: auto;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+
+}
