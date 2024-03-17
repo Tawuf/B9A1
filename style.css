@@ -44,3 +44,42 @@
    justify-content: space-around;
 
 }
+.price{
+    text-align: center;
+    height: 350px;
+    padding-top: 50px;
+ 
+    font-size: 30px;
+    background-color: rgb(247, 229, 229);
+    margin: 50px 70px;
+    border-radius: 10px;
+    
+}
+.red {
+    color: red;
+}
+.btn1{
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
+.newOff{
+    display: flex;
+    margin: 5%;
+    justify-content: space-between;
+}
+.col1{
+    width: 30%;
+}
+.bimage {
+    height: 300px;
+    width: 300px;
+    border: 8px solid red;
+    border-radius: 300px;
+    padding: 12px;
+}
+.textC{
+    margin-top: 50px;
+}
